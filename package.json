@@ -9,6 +9,7 @@
     "playlist",
     "videojs"
   ],
+  "main": "dist/videojs-playlist-ui.js",
   "scripts": {
     "test": "grunt test",
     "prepublish": "grunt build:dist"
